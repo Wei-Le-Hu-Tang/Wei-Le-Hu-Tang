@@ -11,14 +11,20 @@ I'm a Applied Mathematics student since 2021 at the _UNAM, Faculty of Sciences_ 
 [![CSS](https://skillicons.dev/icons?i=css)]
 [![SASS](https://skillicons.dev/icons?i=sass)]
 [![PHP](https://skillicons.dev/icons?i=php)]
-[![SQL](https://skillicons.dev/icons?i=sql)]
+[![SQL](https://skillicons.dev/icons?i=mysql)]
 
-## ◎ Tools
+## ◎ Softwares
 [![Git](https://skillicons.dev/icons?i=git)](https://es.wikipedia.org/wiki/Git)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://archlinux.org/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)]
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
+<a href="https://jupyter.org/"><img src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" width="52" height="52"></a>
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](http://www.anaconda.com/)
+[![Photoshop](https://skillicons.dev/icons?i=ps)]
 
-
+## ◎ OS
+[![Windows](https://skillicons.dev/icons?i=windows)]
+[![Linux](https://skillicons.dev/icons?i=linux)](https://archlinux.org/)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)]
 <!--
 **Wei-Le-Hu-Tang/Wei-Le-Hu-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
