@@ -1,6 +1,6 @@
 # Hi, I'm Wei Le
 
-I'm a Applied Mathematics student since 2021 at the _UNAM, Faculty of Sciences_ 🇲🇽.
+I'm an Applied Mathematics student since 2021 at the _UNAM, Faculty of Sciences_ 🇲🇽.
 
 ## ◎ Languages & Frameworks
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
