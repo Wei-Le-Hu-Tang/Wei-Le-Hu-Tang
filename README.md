@@ -23,8 +23,7 @@ I'm an Applied Mathematics student since 2021 at the _UNAM, Faculty of Sciences_
 
 ## ◎ OS
 [![Windows](https://skillicons.dev/icons?i=windows)]
-[![Linux](https://skillicons.dev/icons?i=linux)](https://archlinux.org/)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)]
+[![Linux/Unix](https://skillicons.dev/icons?i=linux)](https://archlinux.org/)
 <!--
 **Wei-Le-Hu-Tang/Wei-Le-Hu-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
